@@ -1,7 +1,7 @@
 package com.example;
 
-public class Main {
+public class Main extends Node {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        
     }
 }
